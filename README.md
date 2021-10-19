@@ -1,7 +1,7 @@
 # MiniGames
 This is a project of the Mobile App Development course - GSU
 
---- Open the Project ---
+** Open the Project **
 1. Open Android Studio
 2.1. In "Welcome to Android Studio" window (optional 1)
 	 - Click Open an Existing Project
@@ -19,7 +19,7 @@ In the toolbar, select the device that you want to run your app on from the targ
 	 - On your phone, go to Settings > About phone > Software Information > tap to Build number (Developer mode have already beeen turned on.)
 	 - On Android Studio, choose "samsung SM-G930VL"
 	 - Click Run 'app'
---- Install APK File on Your Android Phone ---
+** Install APK File on Your Android Phone **
 1. With a USB cable, connect your phone to your computer
 2. Copy app-debug.apk in the directory MiniGames\app\build\outputs\apk\debug to Download folder on your phone
 3. On your phone, go to My Files > tap to app-debug.apk > INSTALL > OPEN
