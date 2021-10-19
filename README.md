@@ -18,8 +18,8 @@ In the toolbar, select the device that you want to run your app on from the targ
 	 - With a USB cable, connect your phone to your computer
 	 - On your phone, go to Settings > About phone > Software Information > tap to Build number (Developer mode have already beeen turned on.)
 	 - On Android Studio, choose "samsung SM-G930VL"
-	 - Click Run 'app'
-\
+	 - Click Run 'app'  
+	 
 --- Install APK File on Your Android Phone ---
 1. With a USB cable, connect your phone to your computer
 2. Copy app-debug.apk in the directory MiniGames\app\build\outputs\apk\debug to Download folder on your phone
